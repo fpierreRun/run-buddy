@@ -88,6 +88,7 @@ section {
   background-image: url('../images/hero-bg.jpg');
   background-size: cover;
   background-position: center;
+
   align-items: flex-start;
 
 }
@@ -98,6 +99,7 @@ section {
   margin: 3.5%;
   color: #fff;
   font-size: 18px;
+
   line-height: 1.2;
 }
 
